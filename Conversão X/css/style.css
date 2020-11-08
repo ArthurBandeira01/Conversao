@@ -224,6 +224,9 @@ main h2 {
 /* Responsivo */
 
 @media screen and (max-width: 635px){
+	main{display: block;}
+	.painel{width: 100%;margin-top: 20px;}
+
 	header .logo{top: 10px;display: block;}
 	header .logo img{display: block;position: relative;}
 	.title-convert{display: none;}
