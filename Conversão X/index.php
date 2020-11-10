@@ -79,7 +79,7 @@
 
 <!-- Footer -->
 	<footer>
-		<p style="width:100%;text-align: center;padding:10px 0;background: #424242;color:white;font-size:18px;position:absolute;bottom:0;">Alpha Castt 2020 - Todos os direitos reservados</p>
+		<p>Alpha Castt 2020 - Todos os direitos reservados</p>
 	</footer>
 <!-- Footer -->
 
