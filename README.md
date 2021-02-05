@@ -7,6 +7,4 @@ Conversão da moeda real para Dólar, Euro e BitCoin
 
 :blush:
 
-<h1 align="center">
-  <img src="https://ibb.co/ftJBnt9 https://ibb.co/Pr8698n"/>
-</h1>  
+![alt text](https://ibb.co/BKgj8pC)
